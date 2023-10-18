@@ -236,3 +236,4 @@ class DotStar:
 
         if self._spi:
             self._spi.xfer2(buf)
+            
